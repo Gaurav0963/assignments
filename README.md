@@ -1,2 +1,2 @@
-# assignments
-assignments for ineuron FSDS course
+# Assignments
+Assignments for ineuron FSDS Bootcamp Batch 
